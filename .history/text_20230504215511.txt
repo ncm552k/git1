@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+hom nay la thu 3444444dfdfssfd
+=======
+hom nay la thu 3444444
+hom nay la thu 677777ffsdfsd
+
+>>>>>>> ec45fd8 (add files 2nd time)
